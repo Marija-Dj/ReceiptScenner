@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\bin\Debug\net7.0\MDj-Receipt Scanner.exe
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\bin\Debug\net7.0\MDj-Receipt Scanner.deps.json
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\bin\Debug\net7.0\MDj-Receipt Scanner.runtimeconfig.json
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\bin\Debug\net7.0\MDj-Receipt Scanner.dll
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\bin\Debug\net7.0\MDj-Receipt Scanner.pdb
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\obj\Debug\net7.0\MDj-Receipt Scanner.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\obj\Debug\net7.0\MDj-Receipt Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\obj\Debug\net7.0\MDj-Receipt Scanner.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\obj\Debug\net7.0\MDj-Receipt Scanner.AssemblyInfo.cs
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\obj\Debug\net7.0\MDj-Receipt Scanner.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\obj\Debug\net7.0\MDj-Receipt Scanner.csproj.CopyComplete
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\obj\Debug\net7.0\MDj-Receipt Scanner.dll
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\obj\Debug\net7.0\refint\MDj-Receipt Scanner.dll
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\obj\Debug\net7.0\MDj-Receipt Scanner.pdb
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\obj\Debug\net7.0\MDj-Receipt Scanner.genruntimeconfig.cache
+C:\Users\User\Desktop\MDj-Receipt Scanner\MDj-Receipt Scanner\obj\Debug\net7.0\ref\MDj-Receipt Scanner.dll
